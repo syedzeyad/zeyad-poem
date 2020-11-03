@@ -3,6 +3,7 @@ the rainbow
 purle 
 pink
 orange
+black
 yellow
 green 
 blue 
