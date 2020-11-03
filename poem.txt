@@ -2,7 +2,8 @@ the rainbow
 
 purle 
 pink
-orange 
+orange
+yellow
 green 
 blue 
 red
